@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test Suite Cart</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>6d52ebb9-0e48-4f86-85f5-0668279b1644</testSuiteGuid>
+   <testCaseLink>
+      <guid>eca43aae-09b2-4ea9-a416-0ebb9fb2867e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test - add item to cart</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>53e08e32-bb31-4a60-b078-c21cd32f42f3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/data_cart</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>53e08e32-bb31-4a60-b078-c21cd32f42f3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>01847a04-e600-4722-81a3-98c0c4b913a8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>53e08e32-bb31-4a60-b078-c21cd32f42f3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>f45aa434-271f-4a72-b49a-d6508f856067</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>53e08e32-bb31-4a60-b078-c21cd32f42f3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>2c5f1f37-b11d-4968-9284-63e31d782211</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>53e08e32-bb31-4a60-b078-c21cd32f42f3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>QTY</value>
+         <variableId>d1962d8f-3a4a-4757-a6c6-d1f49fb7f4f3</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

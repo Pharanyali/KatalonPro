@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_ionicon-fill-none ionicon-stroke-width_c9569b</name>
+   <tag></tag>
+   <elementGuidId>e535454a-dfe1-4ba2-b28b-717bd5d7d424</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.icon-inner > svg.ionicon.s-ion-icon > path.ionicon-fill-none.ionicon-stroke-width</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>b09b717f-48a8-4d2e-b8f3-8a3ae14629c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linecap</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>a50ccdfc-3672-4375-98d9-bbfa1eaeb770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linejoin</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>43a09825-318f-4af1-9fa4-dbca0ee76cea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M368 368L144 144M368 144L144 368</value>
+      <webElementGuid>85a39f71-c5c5-49bd-8d10-edd5b7c49b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ionicon-fill-none ionicon-stroke-width</value>
+      <webElementGuid>0a400206-bce4-44ce-a12e-4a4eb2e7a894</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;icon-inner&quot;]/svg[@class=&quot;ionicon s-ion-icon&quot;]/path[@class=&quot;ionicon-fill-none ionicon-stroke-width&quot;]</value>
+      <webElementGuid>81df47de-fb9a-4747-a415-d8890f7a15f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Document/ion-icon_Login_close-outline</value>
+      <webElementGuid>d1fe4c25-1bbd-46d5-9ca5-af603f5ef28f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a30ba9da-afbd-4789-a6b6-d844426abc51</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
